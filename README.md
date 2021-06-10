@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharthi865
+- 👋 Hi, I’m Siddharth Sunariya
 - 👀 I’m interested in Web Development(Frontend and BackEnd), Algorithms and Data Structures
 - 🌱 I’m currently learning the MERN(MongoDB,Express, React, NodeJS) stack web development.
 - 💞️ I’m looking to collaborate on ...
